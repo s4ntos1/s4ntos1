@@ -38,4 +38,4 @@ Fundado em 1910, o **Sport Club Corinthians Paulista** é um dos clubes mais tra
 
 🖤⚪ **Vai, Corinthians!**
 
-    <a href="https://www.instagram.com/s4ntzzs_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
+<a href="https://www.instagram.com/s4ntzzs_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
