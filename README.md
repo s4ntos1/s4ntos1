@@ -13,10 +13,6 @@ Olá meu nome é josé! e um dos meus times preferido é o Barça
 ![lamine-yamal](https://github.com/user-attachments/assets/8ee7f66b-190f-4282-8bee-2dcad483047a)
 # 🖤⚪ Corinthians Paulista - O Time do Povo
 
-![Corinthians Logo](https://upload.wikimedia.org/wikipedia/commons/4/44/Sport_Club_Corinthians_Paulista_logo.svg)
-
-### Sobre o Corinthians
-
 Fundado em 1910, o **Sport Club Corinthians Paulista** é um dos clubes mais tradicionais e apaixonados do futebol brasileiro, com uma torcida gigante conhecida como a Fiel. O Timão é símbolo de raça, garra e conquistas, sendo "o time do povo".
 
 - **Fundação:** 1º de setembro de 1910  
@@ -40,3 +36,4 @@ Fundado em 1910, o **Sport Club Corinthians Paulista** é um dos clubes mais tra
 
 <a href="https://www.instagram.com/s4ntzzs_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
 <a href = "mailto:josebenedito10223@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  width = "132" target="_blank"></a>
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@s4nt0s_007)
