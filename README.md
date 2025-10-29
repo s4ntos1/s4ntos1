@@ -1,4 +1,4 @@
-SOBRE MIM
+
  Adoro jogar bola e tecnologia em geral , sou um desnvolvedor iniciante e busco aprender cada vez mais sobre TI
 
 ![fiel-fiel-torcida](https://github.com/user-attachments/assets/bfff7ad3-2c8b-47b8-ac7c-4b15e396a9aa)
